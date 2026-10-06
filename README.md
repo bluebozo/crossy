@@ -1,4 +1,4 @@
-#Vibe-cooded crossy road
+#Vibe-coded crossy road
 
 Prompt:
 
